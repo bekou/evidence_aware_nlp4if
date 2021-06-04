@@ -1,0 +1,1 @@
+python prepare.py --predict ./pretrain_evi_num_5_slate_20_kgat/test.json --original ../../data/bert_test_pointwise_pretrain_evi_num_5_slate_20.json --order ../../data/all_test.json
