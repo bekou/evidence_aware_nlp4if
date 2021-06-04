@@ -10,9 +10,10 @@ See requirements.txt
 ## Task
 The goal is given a claim and a recent dump of Wikipedia documents to predict the veracity of the claim.
 
-Acknowledgement
-Code and preprocessed data for the experiments on the FEVER dataset are adapted from [KernelGAT](https://github.com/thunlp/KernelGAT).
-Code for the evidence-aware model is based on the [allRank](https://github.com/allegro/allRank) work.
+## Acknowledgement
+Code and preprocessed data for the experiments on the FEVER dataset are adapted from the [KernelGAT](https://github.com/thunlp/KernelGAT) repository.
+
+Code for the evidence-aware model is based on the [allRank](https://github.com/allegro/allRank) repository.
 
 ## Notes
 
